@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aminmboankod
+# 👋 Hi, I’m Amin Mustafa
 - 👀 I’m interested in **cybersecurity** and clean code methodologies
 - 🌱 I’m currently learning Python, Javascript, Java, HTML, CSS, MongoDB, MySQL and more in the higher technical degree of web application development
 
