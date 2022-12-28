@@ -7,6 +7,15 @@
 
 ## 🌱 I’m currently learning:
 
+- Python
+- Java
+- javascript
+- Mongodb
+- MySQL
+- Docker
+- Git
+- HTML5
+- CSS3
 --------
 
 - 📫 You can contact me through:
