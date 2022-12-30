@@ -8,7 +8,9 @@ The intensive modality allows the student to work and train at the same time in 
 The company that wants to be part of the intensive training project will enjoy many economic advantages.
 
 For more information visit:
+
 https://www.cambramallorca.com/fpintensiva
+
 or contact my tutor:
 davidg@cifpfbmoll.eu
 --------
