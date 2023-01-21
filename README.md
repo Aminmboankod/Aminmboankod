@@ -20,20 +20,20 @@ The company that wants to be part of the intensive training project will enjoy m
 
 - Python
 - Java
-- javascript
+- Javascript
 - Mongodb
-- MySQL
+- SQL
 - Docker
 - Git
 - HTML5
 - CSS3
 
 
-- 📫 You can contact me through:
+- 📫 Contact me:
 
 - email:
-  amustafaboankod@cifpfbmoll.eu 
-  amin.m.boankod@gmail.com
+  - amustafaboankod@cifpfbmoll.eu 
+  - amin.m.boankod@gmail.com
   
 - LinkedIn:
   [@amimb](https://www.linkedin.com/in/aminmb/)
