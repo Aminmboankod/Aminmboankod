@@ -31,12 +31,12 @@ The company that wants to be part of the intensive training project will enjoy m
 
 - 📫 Contact me:
 
-- email:
-  - amustafaboankod@cifpfbmoll.eu 
-  - amin.m.boankod@gmail.com
-  
-- LinkedIn:
-  [@amimb](https://www.linkedin.com/in/aminmb/)
+    - email:
+      - amustafaboankod@cifpfbmoll.eu 
+      - amin.m.boankod@gmail.com
+
+    - LinkedIn:
+      [@amimb](https://www.linkedin.com/in/aminmb/)
   
   
 
