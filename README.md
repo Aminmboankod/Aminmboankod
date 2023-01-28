@@ -18,15 +18,7 @@ The company that wants to be part of the intensive training project will enjoy m
 
 ## 🌱 I’m currently learning:
 
-- Python
-- Java
-- Javascript
-- Mongodb
-- SQL
-- Docker
-- Git
-- HTML5
-- CSS3
+| Python | Java | Javascript | Mongodb | SQL | Git | HTML5 | CSS3 |
 
 
 - 📫 Contact me:
