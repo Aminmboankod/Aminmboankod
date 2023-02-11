@@ -11,7 +11,7 @@ I look forward to continuing to learn and leverage my web application developmen
 ## I’m interested in:
 cybersecurity, SOLID principles,clean code, and application architecture.
 
----
+
 
 ## I’m currently learning:
 
@@ -35,4 +35,3 @@ Contact me:
   </a>
 
 
----
