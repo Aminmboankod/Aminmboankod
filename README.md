@@ -8,7 +8,7 @@ I like working as a team and collaborating with other developers to develop high
 
 I look forward to continuing to learn and leverage my web application development skills to contribute to quality application development.
 
----
+
 ## I’m interested in:
 - cybersecurity
 - SOLID principles 
