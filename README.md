@@ -17,6 +17,7 @@ I look forward to continuing to learn and leverage my web application developmen
 - SOLID principles 
 - Clean code
 - Architecture design.
+- TDD
 
 
 
