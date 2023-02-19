@@ -11,7 +11,6 @@ I look forward to continuing to learn and leverage my web application developmen
 
 ## I’m interested in:
 - Applications with social impact
-- Social impl
 - Blockchain
 - IA
 - cybersecurity
