@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Amin Mustafa
-![banner](./presentation.gif)
+[![banner](./presentation.gif)](aminmb.dev)
 I am a student of a higher technical degree in web application development in **intensive mode**.
 
 Currently, I like to use the Scrum Agile framework, as it allows me to develop projects in an agile way and improve the quality of my products. I also like to try and learn new technologies to improve my skills and knowledge in application development.
